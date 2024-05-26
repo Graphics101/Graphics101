@@ -1,6 +1,8 @@
 # 🏮 Graphics pipeline
 
-> [WebGL2 기초](https://webgl2fundamentals.org/webgl/lessons/ko/webgl-fundamentals.html)  [WebGL state diagram](https://webgl2fundamentals.org/webgl/lessons/resources/webgl-state-diagram.html?exampleId=smallest-glsl#no-help) 의 문서를 참고해 작성되었습니다.
+{% hint style="info" %}
+[WebGL2 기초](https://webgl2fundamentals.org/webgl/lessons/ko/webgl-fundamentals.html)  [WebGL state diagram](https://webgl2fundamentals.org/webgl/lessons/resources/webgl-state-diagram.html?exampleId=smallest-glsl#no-help) 의 문서를 참고해 작성되었습니다.
+{% endhint %}
 
 그래픽스 라이브러리 또한, 여러 프레임워크 사용경험과 비슷하게,\
 그래픽스 API 가 지정한 방식과 순서로 코드를 작성 해야만 동작하는 프로그램을 작성 할 수 있습니다.
