@@ -1,6 +1,6 @@
 # 🚿 Vertex Shader
 
-> [WebGl2 State Diagram(Smallest GLSL)](https://webgl2fundamentals.org/webgl/lessons/resources/webgl-state-diagram.html?exampleId=smallest-glsl) 문서를 기반으로 설명합니다.
+> [WebGl2 State Diagram(Smallest GLSL)](https://webgl2fundamentals.org/webgl/lessons/resources/webgl-state-diagram.html?exampleId=smallest-glsl) 문서를 [기반으로 설명](undefined.md)합니다.
 
 ### 역할
 
