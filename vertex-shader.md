@@ -9,5 +9,5 @@
 GPU 에서 실행되는 프로그램 입니다.\
 정점의 위치와 크기를 정의합니다.
 
-해당 쉐이더에 대한 코드는 GLSL(OpenGL Shading Language) 라는 전용 언어로 작성됩니다.
+해당 쉐이더에 대한 코드는 [GLSL(OpenGL Shading Language)](glsl.md) 라는 전용 언어로 작성됩니다.
 
