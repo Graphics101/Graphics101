@@ -10,3 +10,4 @@
 ## 배경지식 <a href="#background_infomation" id="background_infomation"></a>
 
 * [✈️ Vector (벡터)](background\_infomation/vector.md)
+* [투영 (Graphic Projection)](background\_infomation/graphic-projection.md)
