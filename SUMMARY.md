@@ -6,3 +6,7 @@
 * [Fragment Shader](fragment-shader.md)
 * [🐋 사용하는 그래픽스 라이브러리와 선정 이유](undefined.md)
 * [⌨️ GLSL](glsl.md)
+
+## 배경지식 <a href="#background_infomation" id="background_infomation"></a>
+
+* [✈️ Vector (벡터)](background\_infomation/vector.md)
