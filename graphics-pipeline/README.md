@@ -11,7 +11,7 @@
 
 사용하는 그래픽스 라이브러리의 종류와 버전에 따라 이 과정은 확장되거나 축소 될 수 있습니다.
 
-[이 문서에서는 WebGL2, 혹은 OpenGL ES 3.0 의 graphics pipeline 을 기준으로 설명](undefined.md)합니다.&#x20;
+[이 문서에서는 WebGL2, 혹은 OpenGL ES 3.0 의 graphics pipeline 을 기준으로 설명](../undefined.md)합니다.&#x20;
 
 TODO:// 각 단계에 맞는 문서 페이지 작성
 
